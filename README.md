@@ -31,7 +31,7 @@ Necesitas tener instalado un **JDK**.
 1. Descarga el repositorio o clónalo:
 
    ```bash
-   git clone URL-DE-TU-REPOSITORIO
+   git clone https://github.com/AsierGutierrez-ciber/Centro_Monitoreo_Accessos
    ```
 
 2. Entra en la carpeta del proyecto:
